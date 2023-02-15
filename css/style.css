@@ -122,7 +122,7 @@ section#reklama {
     height: 100%;
 }
 
-.ads-img {
+section#reklama .ads-img {
     height: 200px;
     width: 100%;
     background-size: contain;
