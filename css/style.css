@@ -113,8 +113,7 @@ section {
 
 section#reklama {
     width: 85%;
-    height: 200px;
-    top: 0;
+    height: 210px;
 }
 
 .place-ads img {
@@ -127,7 +126,7 @@ section#reklama {
     background-position: center;
 }
 
-#reklama a {
+.place-ads a {
     width: 100%;
     height: 100%;
 }
